@@ -208,4 +208,4 @@ SmartFTP is available as a full free version, providing all features and updates
 Unlock the full potential of your file transfers with SmartFTP. **Download SmartFTP free today!**
 
 ---
-**Last updated:** 2026-10-22 04:03:34 UTC
+**Last updated:** 2026-10-22 09:55:11 UTC
